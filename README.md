@@ -46,6 +46,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 
 ## Deployment to Vercel
+![Screen Shot 2022-02-24 at 10 48 16](https://user-images.githubusercontent.com/80291797/155701734-78e70e69-0c97-4560-b60d-3bea831a0f36.png)
 
 
 
