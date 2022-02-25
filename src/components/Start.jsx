@@ -19,7 +19,7 @@ export default function Start({ setUsername }) {
         Start
       </button><br />
       
-      <p>with <img src="https://img.icons8.com/color/48/000000/like--v3.png"/> by codepreneur</p>
+      <p>with <img src="https://img.icons8.com/color/48/000000/like--v3.png" alt="heart-icon"/> by codepreneur</p>
     </div>
   );
 }
